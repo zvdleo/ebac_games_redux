@@ -4,7 +4,7 @@ export const cores = {
   corTexto: '#eee',
   corFundo: '#121714',
   corPrincipal: '#065a60',
-  corSecundaria: '#465a0f'
+  corSecundaria: '#465a0f',
 }
 
 export const GlobalStyle = createGlobalStyle`
